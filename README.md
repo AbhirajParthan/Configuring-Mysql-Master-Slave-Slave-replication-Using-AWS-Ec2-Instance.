@@ -5,7 +5,7 @@ The master-slave replication process allows database administrators to duplicate
 ---
 ## Preparations:
 
-I suggest you to use the privite IP for the server communication ( We are using AWS ec2 instance and the privste IP wll communcate here properly ). Also I suggest you to enable the port 3306 on your server security firewall.
+I suggest you to use the privite IP for the server communication ( We are using AWS ec2 instance and the privite IP wll communcate here properly ). Also I suggest you to enable the port 3306 on your server security firewall.
 
 We need 3 servers for configuring the Master-Slave-Slave. The servers in this example have the following IPs:
 
