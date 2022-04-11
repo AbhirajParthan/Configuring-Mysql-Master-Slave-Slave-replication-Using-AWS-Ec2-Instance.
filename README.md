@@ -132,8 +132,7 @@ You can see that database in the Slave-1 and Slave-2 server. Mysql Master Slave 
 
 ---
 ## Conclusion
-In this tutorial, I have shown you set up a MySQL Master-Slave-Slave replication on EC2 instance.
-
+In this tutorial, I have shown you set up a Wordpress Installation with Docker Compose file. Now the WordPress up and running. This is an easier way to set up the WordPress using docker.
 
 
 
